@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "langchain-superlocalmemory: LangChain Integration for SuperLocalMemory V3"
+type: software
+authors:
+  - family-names: "Bhardwaj"
+    given-names: "Varun Pratap"
+    orcid: ""
+    website: "https://varunpratap.com"
+    affiliation: "Qualixar"
+license: MIT
+url: "https://github.com/qualixar/langchain-superlocalmemory"
+repository-code: "https://github.com/qualixar/langchain-superlocalmemory"
+preferred-citation:
+  type: article
+  title: "Information-Geometric Foundations for Zero-LLM Enterprise Agent Memory"
+  authors:
+    - family-names: "Bhardwaj"
+      given-names: "Varun Pratap"
+      website: "https://varunpratap.com"
+  year: 2026
+  url: "https://arxiv.org/abs/2603.14588"
+  identifiers:
+    - type: url
+      value: "https://arxiv.org/abs/2603.14588"
+      description: "arXiv preprint"
